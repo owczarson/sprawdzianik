@@ -1,0 +1,15 @@
+D:\Piotrek Owczarek\sprawdzian1\sprawdzian1\bin\Debug\net6.0\sprawdzian1.exe
+D:\Piotrek Owczarek\sprawdzian1\sprawdzian1\bin\Debug\net6.0\sprawdzian1.deps.json
+D:\Piotrek Owczarek\sprawdzian1\sprawdzian1\bin\Debug\net6.0\sprawdzian1.runtimeconfig.json
+D:\Piotrek Owczarek\sprawdzian1\sprawdzian1\bin\Debug\net6.0\sprawdzian1.dll
+D:\Piotrek Owczarek\sprawdzian1\sprawdzian1\bin\Debug\net6.0\sprawdzian1.pdb
+D:\Piotrek Owczarek\sprawdzian1\sprawdzian1\obj\Debug\net6.0\sprawdzian1.csproj.AssemblyReference.cache
+D:\Piotrek Owczarek\sprawdzian1\sprawdzian1\obj\Debug\net6.0\sprawdzian1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Piotrek Owczarek\sprawdzian1\sprawdzian1\obj\Debug\net6.0\sprawdzian1.AssemblyInfoInputs.cache
+D:\Piotrek Owczarek\sprawdzian1\sprawdzian1\obj\Debug\net6.0\sprawdzian1.AssemblyInfo.cs
+D:\Piotrek Owczarek\sprawdzian1\sprawdzian1\obj\Debug\net6.0\sprawdzian1.csproj.CoreCompileInputs.cache
+D:\Piotrek Owczarek\sprawdzian1\sprawdzian1\obj\Debug\net6.0\sprawdzian1.dll
+D:\Piotrek Owczarek\sprawdzian1\sprawdzian1\obj\Debug\net6.0\refint\sprawdzian1.dll
+D:\Piotrek Owczarek\sprawdzian1\sprawdzian1\obj\Debug\net6.0\sprawdzian1.pdb
+D:\Piotrek Owczarek\sprawdzian1\sprawdzian1\obj\Debug\net6.0\sprawdzian1.genruntimeconfig.cache
+D:\Piotrek Owczarek\sprawdzian1\sprawdzian1\obj\Debug\net6.0\ref\sprawdzian1.dll
